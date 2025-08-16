@@ -3,9 +3,6 @@
 An interactive web-based tool to **learn, practice, and understand Data Structures & Algorithms** through real-time visualizations. This app makes abstract concepts intuitive by turning logic into step-by-step animations.  
 
 🔗 **Live Demo:** [DSA Visualizer](https://dsa-visualizer-alpha.vercel.app/)  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=data-visualizer&color=0e75b6" alt="Project Views"/>
-</p>
 
 ---
 
